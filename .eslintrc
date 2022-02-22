@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json.schemastore.org/eslintrc",
+    "rules": {
+        "no-unused-vars": "error"
+    },
+    "root": true,
+    "env": {
+        "browser": true
+    }
+}
